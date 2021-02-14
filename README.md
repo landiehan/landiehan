@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @landiehan
+- 👋 Hi, I’m Landay
 - 👀 I’m interested in **web development**
 - 🌱 I’m currently learning *Create a Back-End App with JavaScript* on codecademy.
 - 📫 How to reach me: landiehan@outlook.com
